@@ -12,7 +12,7 @@ console.log("prenom:",prenomPropre);
 const email=`${prenomPropre.toLowerCase()}@club.tn`;
 console.log("email :",email)
 console.log("contient @ ",email.includes("@"));
-/*
+
 
 
 console.log("---- Exercice 2 ----");
@@ -67,6 +67,7 @@ console.log(moyenne);
 
 notes.sort((a, b) => a - b);
 console.log(notes);
+
 console.log("---- Exercice 4 ----");
 
 const membre = {
@@ -115,7 +116,7 @@ const yasmine = membres.find((m) => m.prenom == "Yasmine");
 console.log(yasmine.age);
 
 
-console.table(membres);*/
+console.table(membres);
 
 
 

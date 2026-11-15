@@ -1,5 +1,5 @@
 
-/*const resultats = [
+const resultats = [
     { joueur: "Sarra", score: 7 },
     { joueur: "Ali", score: 10 },
     { joueur: "Yasmine", score: 4 },
@@ -56,7 +56,7 @@ const stats = {
     }
 };
 
-stats.afficher();*/
+stats.afficher();
 
 
 
